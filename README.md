@@ -3,12 +3,15 @@
 </p>
 
 <img src='./assets/readme-banner.png' height='350px' width='100%' alt="readme banner">
-<br><br>
+
+<br>
+
+<br>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=435&lines=Hello+%2C+There+!+%F0%9F%91%8B;I+am+Riad+Ahmed...;Nice+to+meet+you+!" alt="Typing SVG" /></a></p>
 
 
 
-# 💫 About Me
+## 💫 About Me
 
 <br>
 
@@ -29,19 +32,22 @@ Currently, I am focusing on building **modern, scalable, and user-friendly appli
 
 </div>
 
-<br>
 
 <img src="./assets/gradient-line-gif.gif" alt="gradient border" width="100%" />
 
 <br>
 
+
+
+
+
+
+
 ## 🚀 What I'm Up To
 
-<br>
-
-<table width="100%">
-  <tr>
-    <td width="60%" valign="middle">
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr border="0">
+    <td width="60%" valign="middle" style="border: none;">
       <ul>
         <li>🔭 Deep-diving into <b>Next.js</b> to build optimized web solutions.</li>
         <li>🎯 Focused on crafting <b>user-friendly, high-scalable, and modern web applications</b>.</li>
@@ -50,24 +56,24 @@ Currently, I am focusing on building **modern, scalable, and user-friendly appli
         <li>💡 Constantly brainstorming new project ideas.</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="middle">
+    <td width="40%" align="right" valign="middle" style="border: none;">
       <img src="./assets/coding-gif(3).gif" alt="Coding GIF" width="100%" />
     </td>
   </tr>
 </table>
 
+
+
+
+
 <br>
 
 
 
-<br>
+## 🔥 Languages & Frameworks & Tools 🔥
 
 
 
- ## 🔥 Languages & Frameworks & Tools 🔥
-
-
----
 
 <br>
 <p align="center">
@@ -79,7 +85,7 @@ Currently, I am focusing on building **modern, scalable, and user-friendly appli
 
 <br>
 
-# 📈 Current Stats
+## 📈 Current Stats
 
 <br>
 

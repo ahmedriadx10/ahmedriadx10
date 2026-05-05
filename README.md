@@ -78,7 +78,7 @@ Currently, I am focusing on building **modern, scalable, and user-friendly appli
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,git,github,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,git,github,vscode,figma" />
   </a>
 </p>
 

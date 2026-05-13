@@ -18,7 +18,7 @@
 
 I am a **MERN Stack Enthusiast** and a **Passionate Web Developer**. I love learning new things and exploring new technologies. I really enjoy thinking about real-life problems and finding ways to solve them through my code.
 
-Currently, I am focusing on building **modern, scalable, and user-friendly applications** using **React.js** and **Next.js**. My goal is to create high-quality web tools that people love to use. I am always trying to improve my skills and follow the best coding practices.
+Currently, I am focusing on building modern, scalable, and user-friendly applications using **React.js, Next.js, Node.js, Express.js, and MongoDB**. My goal is to create high-quality web tools that people love to use. I am always trying to improve my skills and follow the best coding practices.
 
 <br>
 
@@ -49,11 +49,12 @@ Currently, I am focusing on building **modern, scalable, and user-friendly appli
   <tr border="0">
     <td width="60%" valign="middle" style="border: none;">
       <ul>
-        <li>🔭 Deep-diving into <b>Next.js</b> to build optimized web solutions.</li>
-        <li>🎯 Focused on crafting <b>user-friendly, high-scalable, and modern web applications</b>.</li>
-        <li>🛠️ <b>Exploring new technologies</b> to stay ahead in web development.</li>
-        <li>🧩 Passionate about <b>solving real-life problems</b> through innovative coding.</li>
-        <li>💡 Constantly brainstorming new project ideas.</li>
+        <li>🔭 Deep-diving into <b>Next.js</b> and <b>MERN Stack</b> to build optimized, full-stack web solutions.</li>
+        <li>🎯 Focused on crafting <b>user-friendly, scalable, and modern applications with CRUD functionalities.</b></li>
+        <li🔐 Implementing secure authentication systems using BetterAuth and JWT.</li>
+        <li>🛠️ Exploring <b>Node.js and MongoDB</b> to build robust server-side logic and databases.</li>
+        <li>🧩 Passionate about <b>solving real-life problems </b> through innovative and efficient coding.</li>
+        <li>💡 Constantly brainstorming and building high-quality web tools and project ideas.</li>
       </ul>
     </td>
     <td width="40%" align="right" valign="middle" style="border: none;">
@@ -78,7 +79,7 @@ Currently, I am focusing on building **modern, scalable, and user-friendly appli
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,expressjs,mongodb,git,github,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,expressjs,mongodb,vercel,git,github,vscode,figma" />
   </a>
 </p>
 
